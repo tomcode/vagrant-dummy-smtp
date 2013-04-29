@@ -14,9 +14,9 @@ Uses DevNullSmtp.jar.jar, see also [What is DevNull SMTP](http://www.aboutmyip.c
 
 ## License
 
-MIT License for this repository, except the file DevNullSmtp.jar.
+MIT License for this repository, 
 
-DevNullSmtp.jar is available for free download at http://www.aboutmyip.com/AboutMyXApp/DevNullSmtp.jsp, I could not find any license information, I've contacted synametrics.com
+MIT License for the file DevNullSmtp.jar, for further information please contact support@synametrics.com.
 
 
 
